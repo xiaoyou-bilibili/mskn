@@ -1,0 +1,1 @@
+thrift -r --gen py mnt.thrift
